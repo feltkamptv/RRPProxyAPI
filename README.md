@@ -1,6 +1,3 @@
-# RRPProxyAPI
-PHP Class for the RRPproxy API
-
 ![Feltkamp.tv](http://www.feltkamp.tv/images/logo.png)
 
 # RRPproxy API
