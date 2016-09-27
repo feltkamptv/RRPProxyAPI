@@ -24,7 +24,7 @@ $domain_check = $rrp->CheckDomain($domain);
 
 ### What is RRPproxy?
 
-Free Valuator offers domain name registration and webhosting services for resellers. 
+RRPproxy offers domain name registration and webhosting services for resellers. 
 
 ## License
 
