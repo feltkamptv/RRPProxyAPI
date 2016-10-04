@@ -7,7 +7,7 @@ PHP Class for the RRPproxy API
 ## Requirements
 
 - PHP 5.2 or higher
-- SOAP
+- CURL
 - RRPproxy API credentials
 
 ## Get started
